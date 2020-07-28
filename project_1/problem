@@ -1,1 +1,17 @@
+Create a Numeric Progression using Inheritance, Polymorphism and the basic concept of C++ and perform the following:
+
+  a. Arithmetic Progression
+  b. Geometric Progression
+  c. Fibonacci  progression
+
+hint:
+
+  Arithmetic Progression(d)
+ a (a+d) (a + 2d) (a +3d)..... 1 2 3    + 1
+
+  Geometric Progression (d)
+  a   a*d   (a*d)*d                   1 2 4 8....
+
+  Fibonacci  progression
+  0 1 1 2 3 5 8 13     c = a+b
 
