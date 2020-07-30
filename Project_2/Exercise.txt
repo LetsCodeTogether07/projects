@@ -1,0 +1,10 @@
+Write a short C++ function that counts the number times  vowels used and  make all the letters to be either in capital or small only
+
+Example => " Let’s try, Mike."  to   '3' and "LET'S TRY MIKE".
+
+a ,e, i ,o, u
+
+65 -> A
+90-> Z
+97 -> a
+122 -> z
