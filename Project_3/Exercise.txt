@@ -1,0 +1,7 @@
+Write a program which perform some of the basic operation of an ATM which includes:
+     1. Withdraw Cash
+     2. Deposit Cash
+     3. Display Balance
+
+
+Note: ATM is a device which is coded to perform operation mentioned above & many more.
